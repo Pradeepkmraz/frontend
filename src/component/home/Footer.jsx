@@ -2,13 +2,13 @@ import React from 'react';
 
 const Footer = () => {
     return (
-        <footer className="relative z-10 bg-slate-50 dark:bg-black/40 border-t border-black/5 dark:border-white/10 backdrop-blur-lg pt-12 px-6 pb-8 text-slate-900 dark:text-white">
+        <footer className="relative z-10 bg-black/40 border-t border-white/10 backdrop-blur-lg pt-12 px-6 pb-8 text-white">
             <div className="max-w-6xl mx-auto flex flex-col md:flex-row justify-between items-start gap-8 flex-wrap mb-8">
                 <div>
-                    <div className="font-['Playfair_Display'] text-3xl font-black tracking-tight text-slate-900 dark:text-white mb-2">
-                        <span className="text-indigo-600 dark:text-indigo-400">V</span>inaywings
+                    <div className="font-['Playfair_Display'] text-3xl font-black tracking-tight text-white mb-2">
+                        <span className="text-indigo-400">V</span>inaywings
                     </div>
-                    <p className="text-slate-600 dark:text-white/80 text-sm mt-2 max-w-sm leading-relaxed mb-6">
+                    <p className="text-white/80 text-sm mt-2 max-w-sm leading-relaxed mb-6">
                         Navjeevan Foundation — Bringing new life through education & dignity. Empowering women and educating students across rural India.
                     </p>
                     <div className="flex gap-4">
