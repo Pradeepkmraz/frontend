@@ -68,7 +68,7 @@ const Hero = () => {
                         <img className="size-7 rounded-full border border-indigo-900 -translate-x-2" src="https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?q=80&w=50" alt="userImage2" />
                         <img className="size-7 rounded-full border border-indigo-900 -translate-x-4" src="https://images.unsplash.com/photo-1438761681033-6461ffad8d80?q=80&w=50&h=50&auto=format&fit=crop" alt="userImage3" />
                     </div>
-                    <p className="-translate-x-2 text-xs text-slate-600 dark:text-slate-200">Join community of 1m+ founders </p>
+                    <p className="-translate-x-2 text-xs text-slate-200">Join community of 1m+ founders </p>
                 </div>
 
                 <h2 className="text-4xl md:text-7xl/20 text-center max-w-4xl mt-2 text-slate-50 bg-clip-text leading-tight px-4">
